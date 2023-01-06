@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-starwars-app/static/css/main.beefa030.css",
+    "main.js": "/react-starwars-app/static/js/main.a2da0a4e.js",
+    "static/media/death star.png": "/react-starwars-app/static/media/death star.4e12f4252b1055e25521.png",
+    "index.html": "/react-starwars-app/index.html",
+    "main.beefa030.css.map": "/react-starwars-app/static/css/main.beefa030.css.map",
+    "main.a2da0a4e.js.map": "/react-starwars-app/static/js/main.a2da0a4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beefa030.css",
+    "static/js/main.a2da0a4e.js"
+  ]
+}
